@@ -9,6 +9,13 @@ namespace rawSocket_Server
         {
             TcpHelper.StartServer(2584);
             TcpHelper.Listen();
+            while(true)
+            {
+                Console.WriteLine("enter 'quit' to exit...");
+                string handleKey = Console.ReadLine();
+                if(handleKey == "quit")
+                    break;
+            }
         }
     }
 }

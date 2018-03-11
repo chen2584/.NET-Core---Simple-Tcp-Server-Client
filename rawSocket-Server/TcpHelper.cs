@@ -29,19 +29,19 @@ namespace rawSocket_Server
             Console.WriteLine($"Server started. Listening to TCP clients at {listener.LocalEndpoint}");  
         }
 
-        public static void Listen()
+        public static async void Listen()
         {
             if(listener != null && accept)
             {
                 Console.WriteLine("Waiting for client...");
                 while(true)
                 {
-                    var clientTask = listener.AcceptTcpClientAsync();
+                    var clientTask = await listener.AcceptTcpClientAsync();
 
-                    if(clientTask.Result != null)
+                    if(clientTask != null)
                     {
                         TcpHelper tcpHelper = new TcpHelper();
-                        tcpHelper.handleConnection(clientTask.Result);
+                        tcpHelper.handleConnection(clientTask);
                     }
                 }
 
