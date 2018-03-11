@@ -1,0 +1,10 @@
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/bin/Debug/netcoreapp2.0/rawSocket-Client.deps.json
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/bin/Debug/netcoreapp2.0/rawSocket-Client.runtimeconfig.json
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/bin/Debug/netcoreapp2.0/rawSocket-Client.runtimeconfig.dev.json
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/bin/Debug/netcoreapp2.0/rawSocket-Client.dll
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/bin/Debug/netcoreapp2.0/rawSocket-Client.pdb
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/obj/Debug/netcoreapp2.0/rawSocket-Client.csproj.CoreCompileInputs.cache
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/obj/Debug/netcoreapp2.0/rawSocket-Client.AssemblyInfoInputs.cache
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/obj/Debug/netcoreapp2.0/rawSocket-Client.AssemblyInfo.cs
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/obj/Debug/netcoreapp2.0/rawSocket-Client.dll
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Client/obj/Debug/netcoreapp2.0/rawSocket-Client.pdb

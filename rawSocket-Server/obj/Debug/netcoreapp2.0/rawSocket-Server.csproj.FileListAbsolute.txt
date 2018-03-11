@@ -1,0 +1,10 @@
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/bin/Debug/netcoreapp2.0/rawSocket-Server.deps.json
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/bin/Debug/netcoreapp2.0/rawSocket-Server.runtimeconfig.json
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/bin/Debug/netcoreapp2.0/rawSocket-Server.runtimeconfig.dev.json
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/bin/Debug/netcoreapp2.0/rawSocket-Server.dll
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/bin/Debug/netcoreapp2.0/rawSocket-Server.pdb
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/obj/Debug/netcoreapp2.0/rawSocket-Server.csproj.CoreCompileInputs.cache
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/obj/Debug/netcoreapp2.0/rawSocket-Server.AssemblyInfoInputs.cache
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/obj/Debug/netcoreapp2.0/rawSocket-Server.AssemblyInfo.cs
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/obj/Debug/netcoreapp2.0/rawSocket-Server.dll
+/Users/chen/MyWork/Dotnet/rawSocket/rawSocket-Server/obj/Debug/netcoreapp2.0/rawSocket-Server.pdb
