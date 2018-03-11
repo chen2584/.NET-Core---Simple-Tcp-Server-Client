@@ -51,12 +51,19 @@ namespace rawSocket_Server
 
         public async void handleConnection(TcpClient client)
         {
-            string sockerID = Guid.NewGuid().ToString();
+            string sockerID;
+            while(true)
+            {
+                sockerID = Guid.NewGuid().ToString();
+                if(tcpClient.TryAdd(sockerID, client))
+                {
+                    break;
+                }
+            }
             try
             {
                 Console.WriteLine("Client connected. Waiting for message");
                 string message = "";
-                tcpClient.TryAdd(sockerID, client);
                 while(message != null && !message.StartsWith("quit"))
                 {
                     byte[] data = Encoding.ASCII.GetBytes("Send next data: [enter 'quit' to terminate] ");
